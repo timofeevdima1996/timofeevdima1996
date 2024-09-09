@@ -1,5 +1,12 @@
 <h1 align="center">Привет 👋 Меня зовут Дмитрий!</h1>
 
+
+<div align="center">
+  <a href="https://web.telegram.org/a/#454906921" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
+</p>
+
 Меня зовут Тимофеев Дмитрий  Я начинающий С# и Unity разработчик.<br>
 Я учусь в школе "ЯЮниор". До этого изучал программирование самостоятельно.<br>
 Раньше работал моряком инженер-механиком, побывал в разных частях мира. Имею интересный и уникальный опыт работы и решения различных ситуаций.<br>
@@ -13,5 +20,6 @@
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Dmitii1996" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/timofeevdima1996" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 </h1>
 Мои работы на курсах "ЯЮниор": https://gist.github.com/timofeevdima1996
